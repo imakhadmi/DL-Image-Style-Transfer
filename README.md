@@ -33,15 +33,21 @@ Further detailed information on each step of the project can be found in the fol
 
 ### Sample Style Transfer Images
 
-![Sample Output 1][image2]
+<p align="center">
+  <img src="./images/paris-starry_night.png">
+</p>
 
 ![Sample Output Comparison 1][image3]
 
-![Sample Output 2][image4]
+<p align="center">
+  <img src="./images/dc_capitol-new_york.png">
+</p>
 
 ![Sample Output Comparison 2][image5]
 
-![Sample Output 3][image6]
+<p align="center">
+  <img src="./images/seattle-the_scream.png">
+</p>
 
 ![Sample Output Comparison 3][image7]
 
